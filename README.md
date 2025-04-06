@@ -10,7 +10,7 @@ Raspberry Pi Zero setup: https://xsite.singaporetech.edu.sg/d2l/le/content/11022
 *For OS use raspberry pi 32bit bookworm
 https://meshtastic.org/docs/hardware/devices/linux-native-hardware/?os=raspbian 
 
-Steps(After burning raspberry pi zero os to raspberry pi zero or install raspberry pi zero os):
+Steps(After install raspberry pi zero os (fresh install)):
 
 1.Install Required Packages:
 sudo apt update
